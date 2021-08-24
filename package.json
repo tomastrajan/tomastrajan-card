@@ -1,0 +1,33 @@
+{
+  "name": "tomastrajan",
+  "description": "Tomas Trajan / @tomastrajan - Software Engineer, Google Developer Expert for Angular (GDE), Blogger, Speaker, Maker",
+  "version": "1.1.0",
+  "main": "index.js",
+  "bin": {
+    "tomastrajan": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^5.0.1",
+    "chalk": "^4.1.2"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "keywords": [
+    "tomastrajan",
+    "gde",
+    "angular",
+    "card",
+    "blogger",
+    "speaker",
+    "maker"
+  ],
+  "author": {
+    "name": "Tomas Trajan"
+  },
+  "license": "MIT"
+}
