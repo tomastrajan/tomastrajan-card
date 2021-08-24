@@ -1,7 +1,7 @@
 {
   "name": "tomastrajan",
   "description": "Tomas Trajan / @tomastrajan - Software Engineer, Google Developer Expert for Angular (GDE), Blogger, Speaker, Maker",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "bin": {
     "tomastrajan": "index.js"
